@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{D52BF903-35B5-4B01-97EF-874B2779B86C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9C3BEB5-872B-4652-A061-A06BE97F98EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52BF903-35B5-4B01-97EF-874B2779B86C}.Debug|x86.ActiveCfg = Debug|x86
+		{D52BF903-35B5-4B01-97EF-874B2779B86C}.Debug|x86.Build.0 = Debug|x86
+		{D52BF903-35B5-4B01-97EF-874B2779B86C}.Release|x86.ActiveCfg = Release|x86
+		{D52BF903-35B5-4B01-97EF-874B2779B86C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF7E12E2-A3B5-4A05-BAB4-D305A5710C25}
+	EndGlobalSection
+EndGlobal
