@@ -1,0 +1,21 @@
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\Student Badges.exe
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\Student Badges.deps.json
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\Student Badges.runtimeconfig.json
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\Student Badges.runtimeconfig.dev.json
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\Student Badges.dll
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\ref\Student Badges.dll
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\Student Badges.pdb
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.csprojAssemblyReference.cache
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.AssemblyInfoInputs.cache
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.AssemblyInfo.cs
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.csproj.CoreCompileInputs.cache
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.dll
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\ref\Student Badges.dll
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.pdb
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.genruntimeconfig.cache
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student_Badges.Form1.resources
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.csproj.GenerateResource.cache
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\gbertollini\Desktop\CSharpImage\Student Badges\obj\Debug\net5.0-windows\Student Badges.csproj.CopyComplete
